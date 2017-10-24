@@ -1,0 +1,2 @@
+# cassandro
+GUI for cassandra
